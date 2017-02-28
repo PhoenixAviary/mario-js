@@ -2,6 +2,15 @@
 printPyramid(5);
 
 
+
+// var size = 7;
+// var hash = "";
+// for (var cnt = 0; cnt < size; cnt++) {
+//   hash += "#";
+//   console.log(hash);
+// }
+
+
 /*
  * printPyramid
  *
@@ -14,7 +23,7 @@ printPyramid(5);
  *      ######
  */
 function printPyramid(height) {
-    console.log("Uh oh... the pyramid is under construction.");
+    console.log("Uh oh... the pyramid is under construction. Which sucks");
     console.log("Check back soon, our developers are hard at work as we speak!");
 
     // TODO
